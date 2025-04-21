@@ -1,0 +1,19 @@
+/* style.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #f3f4f6, #e5e7eb);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #1d4ed8;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
